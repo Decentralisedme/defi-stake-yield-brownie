@@ -10,6 +10,6 @@ Steps:
 4. Calculate the total value for each stakers positin in USD using Chain Link Price feed
 5. Front End: yarn + @usedapp/core + @material-ui/core
 
-Localhost:
-![Alt text](./front_end/src/DappToken.jpg?raw=true "UI Dapp")
+From my Localhost:
+
 
